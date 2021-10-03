@@ -10,4 +10,6 @@ public class Third {
     }
 
     // updated after first created
+
+    // one more new line added
 }
